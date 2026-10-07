@@ -1,0 +1,7 @@
+nav a:hover {
+    color : #034BFF;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline;
+}
