@@ -69,3 +69,11 @@ nav ul li a{
     text-decoration: none;
     color : #FFFFFF;
 }
+
+html {
+  font-size: 100%;
+}
+.title h1{
+    font-size: 5rem;
+    
+}
